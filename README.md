@@ -1,4 +1,4 @@
-# Mara Data Integration
+# Data Integration
 
 [![Build Status](https://travis-ci.org/mara/data-integration.svg?branch=master)](https://travis-ci.org/mara/data-integration)
 [![PyPI - License](https://img.shields.io/pypi/l/data-integration.svg)](https://github.com/mara/data-integration/blob/master/LICENSE)
@@ -35,10 +35,10 @@ pip install data-integration
 or
  
 ```
-pip install git+https://github.com/mara/data-integration.git
+pip install https://github.com/Danielson23/data-integration.git
 ```
 
-For an example of an integration into a flask application, have a look at the [mara example project](https://github.com/mara/mara-example-project).
+For an example of an integration into a flask application, have a look at the [mara example project](https://github.com/Danielson23/mara-example-project).
 
 
 &nbsp;
